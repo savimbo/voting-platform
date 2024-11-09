@@ -81,4 +81,6 @@ You need to run the two parts in order:
  
 ### API documentation
 
-When the system running, open a browser and point it to [localhost:4000/api/v1/apidoc](http://localhost:4000/api/v1/apidoc) to access the swagger documentation of the service
+You can find [here](https://savimbo.github.io/voting-platform/) the OpenAPI specification of the system.
+
+To watch it locally when the system is running, open a browser and point it to [localhost:4000/api/v1/apidoc](http://localhost:4000/api/v1/apidoc).

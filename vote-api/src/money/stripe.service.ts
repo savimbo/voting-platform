@@ -14,7 +14,7 @@ export class StripeService {
     constructor() {}
 
     private readonly stripePayoutsAccount = 'sk_test_your_account'; // this is the account that will be used to pay out
-    private stripe = new Stripe(this.stripePayoutsAccount, { apiVersion: "2024-09-30.acacia" });
+    private stripe = new Stripe(this.stripePayoutsAccount, { apiVersion: "2024-10-28.acacia" });
 
     async payPayout(
             amount : string, currency: string, 

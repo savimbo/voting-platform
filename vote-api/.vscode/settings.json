@@ -1,0 +1,19 @@
+{
+    "editor.formatOnSave": true,
+    "prettier.tabWidth": 4,
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "vscode.typescript-language-features",
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "typescript.preferences.importModuleSpecifier": "non-relative",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.referencesCodeLens.enabled": false,
+    "[typescript]": {
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+}

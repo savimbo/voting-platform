@@ -1,0 +1,5 @@
+export enum ErrorCode {
+    LOGIN_NAME_ERROR = "1000",
+    LOGIN_PASSWORD_ERROR = "1001",
+    SIGNUP_REGISTER_ERROR = "1002",
+}

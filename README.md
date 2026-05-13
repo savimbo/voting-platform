@@ -84,3 +84,7 @@ You need to run the two parts in order:
 You can find [here](https://savimbo.github.io/voting-platform/) the OpenAPI specification of the system.
 
 To watch it locally when the system is running, open a browser and point it to [localhost:4000/api/v1/apidoc](http://localhost:4000/api/v1/apidoc).
+
+### Support
+
+Documentation supported by GitBook. https://www.gitbook.com/ 
